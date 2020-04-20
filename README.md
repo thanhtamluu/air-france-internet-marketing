@@ -1,0 +1,2 @@
+# air-france-internet-marketing
+Conducting a thorough analysis on Air France's internet marketing strategies and determining future search engine marketing campaigns. The focus was on whether different search engines were attracting different consumer segments and yielding unique purchase patterns and consumer behavior from SEM campaigns. Furthermore, keywords that were either most or least popular were identified to adjust campaign tactics accordingly and improve campaign performance.
